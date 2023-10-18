@@ -39,7 +39,7 @@ input[type='range'] + label {
   background-color: #fff;
   position: absolute;
   top: -25px;
-  left: -30px;
+  left: 110px;
   width: 80px;
   padding: 5px 0;
   text-align: center;
