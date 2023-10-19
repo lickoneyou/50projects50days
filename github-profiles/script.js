@@ -52,4 +52,5 @@ async function getUser(user) {
 form.addEventListener("submit", function (e) {
   e.preventDefault();
   getUser(search.value);
+  search.value = ''
 });
